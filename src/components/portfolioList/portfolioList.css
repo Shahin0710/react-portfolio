@@ -1,0 +1,11 @@
+.portfolio {
+    font-size: 14px;
+    margin-right: 50px;
+    padding: 0.7px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .portfolio .active {
+    background-color: #15023a;
+    color: white;
+  }
